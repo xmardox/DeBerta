@@ -70,7 +70,7 @@ ft = FlowTransformer(pre_processing=pre_processing,
                      classification_head=classification_heads[0],
                      params=FlowTransformerParameters(window_size=8, mlp_layer_sizes=[128], mlp_dropout=0.1))
 
-
+#
 
 # Load the specific dataset
 dataset_name, dataset_path, dataset_specification, eval_percent, eval_method = datasets[0]
