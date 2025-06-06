@@ -1,0 +1,5 @@
+2025-05-09 14:17:06,100 INFO    MainThread:40212 [wandb_init.py:setup_run_log_directory():724] Logging user logs to C:\Users\lapla\Downloads\FlowTransformer-master\wandb\run-20250509_141706-bq6v6tun\logs\debug.log
+2025-05-09 14:17:06,102 INFO    MainThread:40212 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to C:\Users\lapla\Downloads\FlowTransformer-master\wandb\run-20250509_141706-bq6v6tun\logs\debug-internal.log
+2025-05-09 14:17:06,102 INFO    MainThread:40212 [wandb_init.py:init():852] calling init triggers
+2025-05-09 14:17:06,102 INFO    MainThread:40212 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}

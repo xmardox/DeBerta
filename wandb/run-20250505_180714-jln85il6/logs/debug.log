@@ -1,0 +1,6 @@
+2025-05-05 18:07:14,918 INFO    MainThread:35440 [wandb_init.py:setup_run_log_directory():724] Logging user logs to C:\Users\lapla\Downloads\FlowTransformer-master\wandb\run-20250505_180714-jln85il6\logs\debug.log
+2025-05-05 18:07:14,918 INFO    MainThread:35440 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to C:\Users\lapla\Downloads\FlowTransformer-master\wandb\run-20250505_180714-jln85il6\logs\debug-internal.log
+2025-05-05 18:07:14,918 INFO    MainThread:35440 [wandb_init.py:init():852] calling init triggers
+2025-05-05 18:07:14,918 INFO    MainThread:35440 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-05 18:09:40,063 INFO    MsgRouterThr:35440 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 1 handles.

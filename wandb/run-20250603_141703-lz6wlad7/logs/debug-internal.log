@@ -1,0 +1,7 @@
+{"time":"2025-06-03T14:17:03.7017974+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"C:\\Users\\lapla\\Downloads\\FlowTransformer-master\\wandb\\run-20250603_141703-lz6wlad7\\logs\\debug-core.log"}
+{"time":"2025-06-03T14:17:04.8188629+02:00","level":"INFO","msg":"created new stream","id":"lz6wlad7"}
+{"time":"2025-06-03T14:17:04.8202927+02:00","level":"INFO","msg":"stream: started","id":"lz6wlad7"}
+{"time":"2025-06-03T14:17:04.821294+02:00","level":"INFO","msg":"sender: started","stream_id":"lz6wlad7"}
+{"time":"2025-06-03T14:17:04.821294+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"lz6wlad7"}
+{"time":"2025-06-03T14:17:04.8202927+02:00","level":"INFO","msg":"handler: started","stream_id":"lz6wlad7"}
+{"time":"2025-06-03T14:17:05.1229281+02:00","level":"INFO","msg":"Starting system monitor"}

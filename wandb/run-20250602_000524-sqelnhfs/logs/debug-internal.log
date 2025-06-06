@@ -1,0 +1,15 @@
+{"time":"2025-06-02T00:05:24.9673859+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"C:\\Users\\lapla\\Downloads\\FlowTransformer-master\\wandb\\run-20250602_000524-sqelnhfs\\logs\\debug-core.log"}
+{"time":"2025-06-02T00:05:25.2971356+02:00","level":"INFO","msg":"created new stream","id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:25.2977211+02:00","level":"INFO","msg":"stream: started","id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:25.2977211+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:25.2977211+02:00","level":"INFO","msg":"sender: started","stream_id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:25.2977211+02:00","level":"INFO","msg":"handler: started","stream_id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:25.5648207+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-02T00:05:45.9106693+02:00","level":"INFO","msg":"stream: closing","id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:45.9122467+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-02T00:05:45.9122467+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-02T00:05:46.8873896+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-02T00:05:47.1342378+02:00","level":"INFO","msg":"sender: closed","stream_id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:47.1342378+02:00","level":"INFO","msg":"handler: closed","stream_id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:47.1347718+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"sqelnhfs"}
+{"time":"2025-06-02T00:05:47.1347718+02:00","level":"INFO","msg":"stream: closed","id":"sqelnhfs"}

@@ -1,0 +1,15 @@
+{"time":"2025-06-02T00:07:43.6128901+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"C:\\Users\\lapla\\Downloads\\FlowTransformer-master\\wandb\\run-20250602_000743-kdam7xls\\logs\\debug-core.log"}
+{"time":"2025-06-02T00:07:43.9456692+02:00","level":"INFO","msg":"created new stream","id":"kdam7xls"}
+{"time":"2025-06-02T00:07:43.9456692+02:00","level":"INFO","msg":"stream: started","id":"kdam7xls"}
+{"time":"2025-06-02T00:07:43.9462333+02:00","level":"INFO","msg":"handler: started","stream_id":"kdam7xls"}
+{"time":"2025-06-02T00:07:43.9462333+02:00","level":"INFO","msg":"sender: started","stream_id":"kdam7xls"}
+{"time":"2025-06-02T00:07:43.9462333+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"kdam7xls"}
+{"time":"2025-06-02T00:07:44.1588931+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-02T00:08:04.0648938+02:00","level":"INFO","msg":"stream: closing","id":"kdam7xls"}
+{"time":"2025-06-02T00:08:04.0677131+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-02T00:08:04.0677131+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-02T00:08:04.7226273+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-02T00:08:04.9823159+02:00","level":"INFO","msg":"sender: closed","stream_id":"kdam7xls"}
+{"time":"2025-06-02T00:08:04.9851422+02:00","level":"INFO","msg":"handler: closed","stream_id":"kdam7xls"}
+{"time":"2025-06-02T00:08:04.9851422+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"kdam7xls"}
+{"time":"2025-06-02T00:08:04.9851422+02:00","level":"INFO","msg":"stream: closed","id":"kdam7xls"}

@@ -1,0 +1,38 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2025-06-01T16:32:39.974217Z",
+  "program": "c:\\Users\\lapla\\Downloads\\FlowTransformer-master\\FlowTransformer-master\\main.py",
+  "codePath": "FlowTransformer-master\\main.py",
+  "email": "marcosdominguez0603@gmail.com",
+  "root": "C:\\Users\\lapla\\Downloads\\FlowTransformer-master",
+  "host": "HP-Pavilion-i5",
+  "executable": "C:\\Users\\lapla\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+  "codePathLocal": "FlowTransformer-master\\main.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "NVIDIA GeForce GTX 1650",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "498976419840",
+      "used": "216074686464"
+    }
+  },
+  "memory": {
+    "total": "8350593024"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce GTX 1650",
+      "memoryTotal": "4294967296",
+      "cudaCores": 896,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.6"
+}

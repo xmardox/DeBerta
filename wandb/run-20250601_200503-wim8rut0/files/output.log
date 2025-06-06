@@ -1,0 +1,29 @@
+WARNING:tensorflow:From C:\Users\lapla\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+WARNING:tensorflow:From C:\Users\lapla\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tf_keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+All model checkpoint layers were used when initializing TFDebertaModel.
+
+All the layers of TFDebertaModel were initialized from the model checkpoint at microsoft/deberta-base.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use TFDebertaModel for predictions without further training.
+Using cache file path: cache\CSE_CIC_IDS_1300_QdLmZHuh8yOmlGcKBEkf7hepImY0_9Xii0x0FeiUOoDMwEgiWksBPgKc0.feather
+Reading directly from cache cache\CSE_CIC_IDS_1300_QdLmZHuh8yOmlGcKBEkf7hepImY0_9Xii0x0FeiUOoDMwEgiWksBPgKc0.feather...
+All model checkpoint layers were used when initializing TFDebertaModel.
+
+All the layers of TFDebertaModel were initialized from the model checkpoint at microsoft/deberta-base.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use TFDebertaModel for predictions without further training.
+WARNING:tensorflow:From C:\Users\lapla\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\backend\tensorflow\core.py:216: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+Traceback (most recent call last):
+  File "c:\Users\lapla\Downloads\FlowTransformer-master\FlowTransformer-master\main.py", line 80, in <module>
+    m = ft.build_model()
+        ^^^^^^^^^^^^^^^^
+  File "c:\Users\lapla\Downloads\FlowTransformer-master\FlowTransformer-master\framework\flow_transformer.py", line 116, in build_model
+    m_x = Dense(layer_size, activation="relu", name=f"{prefix}classification_mlp_{layer_i}_{layer_size}")(m_x)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lapla\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\lapla\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\layers\input_spec.py", line 202, in assert_input_compatibility
+    raise ValueError(
+ValueError: Input 0 of layer "classification_mlp_0_128" is incompatible with the layer: expected min_ndim=2, found ndim=1. Full shape received: (768,)
+[0m

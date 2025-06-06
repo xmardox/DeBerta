@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "c:\Users\lapla\Downloads\FlowTransformer-master\FlowTransformer-master\main.py", line 26, in <module>
+    RecordLevelEmbed(64),
+    ^^^^^^^^^^^^^^^^
+NameError: name 'RecordLevelEmbed' is not defined
+[0m

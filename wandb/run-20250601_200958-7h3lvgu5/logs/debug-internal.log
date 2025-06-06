@@ -1,0 +1,15 @@
+{"time":"2025-06-01T20:09:58.7592909+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"C:\\Users\\lapla\\Downloads\\FlowTransformer-master\\wandb\\run-20250601_200958-7h3lvgu5\\logs\\debug-core.log"}
+{"time":"2025-06-01T20:09:59.8592426+02:00","level":"INFO","msg":"created new stream","id":"7h3lvgu5"}
+{"time":"2025-06-01T20:09:59.8592426+02:00","level":"INFO","msg":"stream: started","id":"7h3lvgu5"}
+{"time":"2025-06-01T20:09:59.8592426+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"7h3lvgu5"}
+{"time":"2025-06-01T20:09:59.8592426+02:00","level":"INFO","msg":"sender: started","stream_id":"7h3lvgu5"}
+{"time":"2025-06-01T20:09:59.8592426+02:00","level":"INFO","msg":"handler: started","stream_id":"7h3lvgu5"}
+{"time":"2025-06-01T20:10:00.2284014+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-01T20:10:22.8149266+02:00","level":"INFO","msg":"stream: closing","id":"7h3lvgu5"}
+{"time":"2025-06-01T20:10:22.8175304+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-01T20:10:22.8175304+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-01T20:10:23.7446309+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-01T20:10:24.0034604+02:00","level":"INFO","msg":"sender: closed","stream_id":"7h3lvgu5"}
+{"time":"2025-06-01T20:10:24.0039812+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7h3lvgu5"}
+{"time":"2025-06-01T20:10:24.0039812+02:00","level":"INFO","msg":"handler: closed","stream_id":"7h3lvgu5"}
+{"time":"2025-06-01T20:10:24.0039812+02:00","level":"INFO","msg":"stream: closed","id":"7h3lvgu5"}

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "c:\Users\lapla\Downloads\FlowTransformer-master\FlowTransformer-master\main.py", line 20, in <module>
+    from implementations.input_encodings.huggingface_encoder import HuggingFaceTextEncoder
+ModuleNotFoundError: No module named 'implementations.input_encodings.huggingface_encoder'; 'implementations.input_encodings' is not a package
+[0m
